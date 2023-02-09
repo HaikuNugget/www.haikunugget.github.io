@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Original Content and New Ideas
+## Original Content and New Ideas
 
 Thoughts for the cloud.
 
